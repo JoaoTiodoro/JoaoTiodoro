@@ -1,13 +1,12 @@
-<!-- Banner reto e mais tech -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a8a&height=120&section=header&text=João%20Tiodoro&fontSize=38&fontColor=ffffff"/>
-</p>
+<!-- TOPO -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a8a&height=100&section=header&text=João%20Tiodoro&fontSize=38&fontColor=ffffff"/>
+</div>
 
-<!-- Frases animadas que cabem e funcionam -->
+<!-- Frases animadas -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Desenvolvedor+Web+e+UI/UX;Projetos+funcionais+e+bonitos;Tecnologia+com+impacto+real" alt="Typing SVG" />
 </h1>
-
 
 ---
 
@@ -66,7 +65,7 @@
 </div>
 
 ### 🏢 TioBroker – CRM Imobiliário (Pessoal)
-Sistema web para imobiliárias com layout moderno, cadastro de imóveis e foco em produtividade para corretores.  
+Sistema web para imobiliárias com objtivo de inovação total, com layout moderno, cadastro de imóveis e foco em produtividade para corretores.
 📌 Ainda em fase de desenvolvimento, mas com potencial real de mercado.
 
 ---
@@ -99,6 +98,7 @@ Sistema web para imobiliárias com layout moderno, cadastro de imóveis e foco e
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=100&section=footer"/>
-</p>
+<!-- RODAPÉ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1e3a8a&height=100&section=footer&text=🚀%20Transformando%20ideias%20em%20projetos%20reais%20com%20código%20e%20dedicação.&fontColor=ffffff&fontSize=16" />
+</div>
