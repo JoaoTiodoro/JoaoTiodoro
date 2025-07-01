@@ -80,10 +80,10 @@ Sistema web para imobiliárias com layout moderno, cadastro de imóveis e foco e
 
 ---
 
-## 🔥 Contribuições animadas
+## 🐍 Contribuições animadas
 
 <p align="center">
-  <img src="https://github.com/joaotiodoro/joaotiodoro/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/joaotiodoro/joaotiodoro/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
