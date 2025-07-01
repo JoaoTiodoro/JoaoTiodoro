@@ -85,7 +85,6 @@ Sistema web para imobiliárias com layout moderno, cadastro de imóveis e foco e
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="600" />
   <br />
-  <i>⚠️ Em breve seu gráfico real será gerado automaticamente!</i>
 </p>
 
 ---
