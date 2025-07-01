@@ -2,15 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate GitHub Snake
-        uses: Platane/snk/svg-only@v2
+      - uses: Platane/snk/svg-only@v2
         with:
           github_user_name: joaotiodoro
           outputs: |
